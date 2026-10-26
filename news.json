@@ -1,5 +1,79 @@
 [
   {
+    "id": "1.2",
+    "date": "2026-10-27",
+    "kind": "update",
+    "ru": {
+      "title": "Карта перерисована и планировка маршрута",
+      "added": [
+        "Планировка: отмечай путь по клеткам и смотри, где именно догонит волна",
+        "Затонувшие лодки и места рыбалки показывают, что внутри, ещё до того как плыть",
+        "Вишню можно срывать по одной ягоде, а не только трясти дерево",
+        "Управление с клавиатуры и нормальная камера на Mac"
+      ],
+      "changed": [
+        "Карта перерисована: своя земля у каждой зоны, горы с силуэтом и тенью",
+        "Портал мёртвых нарисован заново",
+        "У тумана появился объём — он лежит над картой облаками и расходится иначе",
+        "Погода своя у каждой зоны, тени облаков, рябь на воде",
+        "Под каждой фигурой трескается земля",
+        "Контракты собраны в три страницы, инвентарь переделан"
+      ],
+      "fixed": [
+        "Карта больше не мерцает при отдалении",
+        "Обводка фигур не пропадает, когда отодвигаешь камеру",
+        "Вышка больше не появляется рывком",
+        "Долгие прогоны перестали копить мусор в памяти"
+      ]
+    },
+    "en": {
+      "title": "The map redrawn, and route planning",
+      "added": [
+        "Route planning: mark your path tile by tile and see exactly where the wave will catch you",
+        "Wrecked boats and fishing spots show what they hold before you sail",
+        "Cherries can be picked one at a time, not only shaken loose",
+        "Keyboard controls and a camera that behaves on Mac"
+      ],
+      "changed": [
+        "The map is redrawn: new ground for every zone, mountains with a silhouette and a shadow",
+        "The dead portal is drawn from scratch",
+        "The fog has weight now — it lies over the map in clouds and clears differently",
+        "Weather per zone, cloud shadows, ripples on the water",
+        "The ground cracks under every figure",
+        "Contracts rebuilt as three pages, and a redesigned inventory"
+      ],
+      "fixed": [
+        "The map no longer shimmers when you zoom out",
+        "Figure outlines no longer vanish as you pull the camera back",
+        "The tower no longer pops in",
+        "Long runs no longer pile up memory"
+      ]
+    },
+    "uk": {
+      "title": "Карту перемальовано і планування маршруту",
+      "added": [
+        "Планування: познач шлях по клітинках і дивись, де саме наздожене хвиля",
+        "Затонулі човни та місця рибалки показують, що всередині, ще до того як пливти",
+        "Вишні можна зривати по одній, а не лише трусити дерево",
+        "Керування з клавіатури і нормальна камера на Mac"
+      ],
+      "changed": [
+        "Карту перемальовано: своя земля в кожної зони, гори із силуетом і тінню",
+        "Портал мертвих намальовано наново",
+        "У туману з'явився об'єм — він лежить над картою хмарами й розходиться інакше",
+        "Погода своя в кожної зони, тіні хмар, брижі на воді",
+        "Під кожною фігурою тріскається земля",
+        "Контракти зібрано у три сторінки, інвентар перероблено"
+      ],
+      "fixed": [
+        "Карта більше не мерехтить при віддаленні",
+        "Обведення фігур не зникає, коли відсуваєш камеру",
+        "Вежа більше не з'являється ривком",
+        "Довгі забіги більше не накопичують сміття в пам'яті"
+      ]
+    }
+  },
+  {
     "id": "1.1",
     "date": "2026-10-20",
     "kind": "update",
